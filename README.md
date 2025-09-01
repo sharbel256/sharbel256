@@ -1,5 +1,5 @@
 hi there 👋 i'm sharbel
-- 🔎 i'm a current software engineer at a pre-IPO SaaS startup in finance
+- 🔎 i'm a current software engineer at a startup in finance
 - 🔭 in my nonexisitent free time I work on my trading system [numeri](https://github.com/sharbel97/numeri), and an opensource maps routing engine [valhalla](https://github.com/sharbel97/valhalla).
 
 <!--
