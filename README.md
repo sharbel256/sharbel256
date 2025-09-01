@@ -1,8 +1,6 @@
 hi there 👋 i'm sharbel
-- 🎓 i graduated university in December 2022 with BS in Computer Science
 - 🔎 i'm a current software engineer at a pre-IPO SaaS startup in finance
-- 👨🏻‍💻 i've had 3 past internships as a software engineer
-- 🔭 in my nonexisitent free time I work on my personal trading platform [numeri](https://github.com/sharbel97/numeri), and an opensource maps routing engine [valhalla](https://github.com/sharbel97/valhalla).
+- 🔭 in my nonexisitent free time I work on my trading system [numeri](https://github.com/sharbel97/numeri), and an opensource maps routing engine [valhalla](https://github.com/sharbel97/valhalla).
 
 <!--
 **sharbel97/sharbel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
